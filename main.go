@@ -10,4 +10,5 @@ func main() {
 	log.Println("Okay. Now is Dockerfile time.")
 	log.Println("Don't forget to check your username/password.")
 	log.Println("Oops. it's look like ocurr some problem with permission.")
+	log.Println("Umm.. maybe is repository namespace problem.")
 }
